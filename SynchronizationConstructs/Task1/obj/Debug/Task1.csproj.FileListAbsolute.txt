@@ -1,0 +1,7 @@
+E:\Synchronization Constructs\SynchronizationConstructs\SynchronizationConstructs\Task1\bin\Debug\Task1.exe.config
+E:\Synchronization Constructs\SynchronizationConstructs\SynchronizationConstructs\Task1\bin\Debug\Task1.exe
+E:\Synchronization Constructs\SynchronizationConstructs\SynchronizationConstructs\Task1\bin\Debug\Task1.pdb
+E:\Synchronization Constructs\SynchronizationConstructs\SynchronizationConstructs\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+E:\Synchronization Constructs\SynchronizationConstructs\SynchronizationConstructs\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+E:\Synchronization Constructs\SynchronizationConstructs\SynchronizationConstructs\Task1\obj\Debug\Task1.exe
+E:\Synchronization Constructs\SynchronizationConstructs\SynchronizationConstructs\Task1\obj\Debug\Task1.pdb
